@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "gitsource>=0.0.5",
+    "headroom-ai[ml]>=0.26.0",
     "jupyter>=1.1.1",
     "minsearch>=0.1.0",
     "openai>=2.41.0",
@@ -13,4 +14,5 @@ dependencies = [
     "requests>=2.34.2",
     "ruff>=0.15.16",
     "toyaikit>=0.0.11",
+    "truststore>=0.10.4",
 ]

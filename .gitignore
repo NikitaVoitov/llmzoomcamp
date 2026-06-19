@@ -43,3 +43,6 @@ Thumbs.db
 
 # Cursor
 .cursor/
+
+# Misc
+docs/
